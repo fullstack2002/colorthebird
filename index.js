@@ -11,7 +11,7 @@ let eyeBtn = document.getElementById("eye-btn");
 let branch = document.getElementById("branch");
 
 let colors = [
-    "#cd00000",
+    "#cd0000",
     "#f03800",
     "#ffb64c",
     "#ff9100",
